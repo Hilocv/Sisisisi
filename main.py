@@ -12,9 +12,9 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 app = Client(
     "ST-Bot",
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
-    bot_token=Config.BOT_TOKEN,
+    api_id=14681595,
+    api_hash=a86730aab5c59953c424abb4396d32d5.API_HASH,
+    bot_token=5362722840:AAGM04PCx8pQNdGKGPqGFBvLxjW36AO8dpo,
     plugins=dict(root="StickerTools"),
 )
 
