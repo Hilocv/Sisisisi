@@ -4,42 +4,45 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Saludos {}
+Hey {}
 
-Que bola men😎 {}
+BIENVENIDO 😎 to {}
 
 You can use this bot to convert
-1) Sticker en Image
-2) Image en Sticker
+1) Sticker to Image
+2) Image to Sticker
 
 Send Multiple images or stickers and it will work the same
 
-By @StarkBots
+By @nautaii
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ CREADOR DEL BOT✨", url="https://t.me/nautaii")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/nautaii")],
         [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("🤖 ACTUALIZACION🤖", url="https://t.me/chditoo")
+            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/nautaii")
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
-   
+        ],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/nautaii")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/nautaii")],
+    ]
 
     # Help Message
     HELP = """
 You Really Need Help ?!?!?!?!
 
-1) ENVIAME UN STICKER PARA CONVERTIRLO EN IMAGEN
-2) ENVIAME UNA IMAGEN PARA CREAR UN SRICKER
+1) Send Sticker to get Image
+2) Send Image to get Sticker
 
-Notea : Y vamos a jugar con el negro 😂 tunometecabrasaramambiche
+Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
 
 More features in development. Keep track by joining @nautaii.
     """
@@ -50,24 +53,14 @@ More features in development. Keep track by joining @nautaii.
 
 Bot created by @nautaii
 
-Source Code : [Click Here](@nautaii 🙄)
-
-Framework : [Pyrogram]
-
-Language : [Python]
-
-Developer : @nautaii
-    """ @StarkProgrammer
-    """"""created by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+Source Code : [Iro-bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
+Developer : @nautaiiProgrammer
+    """""ge : [Python](www.python.org)
+
 Developer : @StarkProgrammer
-    """ @StarkProgrammer
-    """"""Programmer
-    """ @StarkProgrammer
-    """"""
+    """""

@@ -1,5 +1,5 @@
 {
-  "name": "Sticker Tools Bot",
+  "name": "Sticker Tools Pupi",
   "description": "Telegram bot for Stickers Tools",
   "logo": "https://telegra.ph/file/0abe9c29410965545218f.png",
   "keywords": [
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/BrainyQuoteBot",
+  "repository": "https://github.com/Hilocv/Sisisisi",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -46,6 +46,10 @@
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
       "value": ""
+    }
+  }
+}
+": ""
     }
   }
 }

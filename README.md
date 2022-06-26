@@ -1,4 +1,4 @@
-# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
+# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/@nautaii)
 
 > A star ⭐ from you means a lot to us!
 
@@ -12,7 +12,7 @@ Telegram bot with various Sticker Tools
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StickerToolsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hilocv/Sisisisi)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot with various Sticker Tools
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StickerToolsBot
+   git clone https://github.com/Hilocv/Sisisisi
    ```
 
 2. Edit `Config.py` and fill the needed variables
@@ -65,9 +65,9 @@ Telegram bot with various Sticker Tools
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@nautaii)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@nautaii)
 
 ## :)
 
@@ -75,4 +75,7 @@ Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)[https://github.com/Hilocv/Sisisisi)
+isisisi)
+e.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+tarkBotsIndustries)
